@@ -54,7 +54,7 @@ body {
 /* Sample CSS for the WHY word */
 
 .whyWLetter {
-  font: optional;
+  font-size: 50px;
 
   /*
   font-size: 72px;
@@ -67,7 +67,7 @@ body {
 }
 
 .whyHLetter {
-  font: optional;
+  font-size: 50px;
 
   /*
   font-size: 30px;
@@ -80,7 +80,7 @@ body {
 }
 
 .whyYLetter {
-  font: optional;
+  font-size: 50px;
   /*
   font-size: 60px;
   font-weight: normal;
@@ -94,294 +94,294 @@ body {
 /* DID word */
 
 .didDLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .didILetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .didDTwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* THE word */
 
 .theTLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .theHLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .theELetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* FRONT-END word */
 
 .frontendFLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .frontendRLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .frontendOLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .frontendNLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .frontendTLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .frontendELetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .frontendNTwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 .frontendDLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
-  font: optional;
+  font-size: 50px;
 }
 .developerELetter {
-  font: optional;
+  font-size: 50px;
 }
 .developerVLetter {
-  font: optional;
+  font-size: 50px;
 }
 .developerETwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 .developerLLetter {
-  font: optional;
+  font-size: 50px;
 }
 .developerOLetter {
-  font: optional;
+  font-size: 50px;
 }
 .developerPLetter {
-  font: optional;
+  font-size: 50px;
 }
 .developerEThreeLetter {
-  font: optional;
+  font-size: 50px;
 }
 .developerRLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* TAKE word */
 
 .takeTLetter {
-  font: optional;
+  font-size: 50px;
 }
 .takeALetter {
-  font: optional;
+  font-size: 50px;
 }
 .takeKLetter {
-  font: optional;
+  font-size: 50px;
 }
 .takeELetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* UP word */
 
 .upULetter {
-  font: optional;
+  font-size: 50px;
 }
 .upPLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* GARDENING word */
 
 .gardeningGLetter {
-  font: optional;
+  font-size: 50px;
 }
 .gardeningALetter {
-  font: optional;
+  font-size: 50px;
 }
 .gardeningRLetter {
-  font: optional;
+  font-size: 50px;
 }
 .gardeningDLetter {
-  font: optional;
+  font-size: 50px;
 }
 .gardeningELetter {
-  font: optional;
+  font-size: 50px;
 }
 .gardeningNLetter {
-  font: optional;
+  font-size: 50px;
 }
 .gardeningILetter {
-  font: optional;
+  font-size: 50px;
 }
 .gardeningNTwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 .gardeningGTwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* BECAUSE word */
 
 .becauseBLetter {
-  font: optional;
+  font-size: 50px;
 }
 .becauseELetter {
-  font: optional;
+  font-size: 50px;
 }
 .becauseCLetter {
-  font: optional;
+  font-size: 50px;
 }
 .becauseALetter {
-  font: optional;
+  font-size: 50px;
 }
 .becauseULetter {
-  font: optional;
+  font-size: 50px;
 }
 .becauseSLetter {
-  font: optional;
+  font-size: 50px;
 }
 .becauseETwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* THEY word */
 
 .theyTLetter {
-  font: optional;
+  font-size: 50px;
 }
 .theyHLetter {
-  font: optional;
+  font-size: 50px;
 }
 .theyELetter {
-  font: optional;
+  font-size: 50px;
 }
 .theyYLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* WANTED word */
 
 .wantedWLetter {
-  font: optional;
+  font-size: 50px;
 }
 .wantedALetter {
-  font: optional;
+  font-size: 50px;
 }
 .wantedNLetter {
-  font: optional;
+  font-size: 50px;
 }
 .wantedTLetter {
-  font: optional;
+  font-size: 50px;
 }
 .wantedELetter {
-  font: optional;
+  font-size: 50px;
 }
 .wantedDLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* TO word */
 
 .toTLetter {
-  font: optional;
+  font-size: 50px;
 }
 .toOLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* IMPROVE word */
 
 .improveILetter {
-  font: optional;
+  font-size: 50px;
 }
 .improveMLetter {
-  font: optional;
+  font-size: 50px;
 }
 .improvePLetter {
-  font: optional;
+  font-size: 50px;
 }
 .improveRLetter {
-  font: optional;
+  font-size: 50px;
 }
 .improveOLetter {
-  font: optional;
+  font-size: 50px;
 }
 .improveVLetter {
-  font: optional;
+  font-size: 50px;
 }
 .improveELetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* THEIR word */
 
 .theirTLetter {
-  font: optional;
+  font-size: 50px;
 }
 .theirHLetter {
-  font: optional;
+  font-size: 50px;
 }
 .theirELetter {
-  font: optional;
+  font-size: 50px;
 }
 .theirILetter {
-  font: optional;
+  font-size: 50px;
 }
 .theirRLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* ROOT word */
 
 .rootRLetter {
-  font: optional;
+  font-size: 50px;
 }
 .rootOLetter {
-  font: optional;
+  font-size: 50px;
 }
 .rootOTwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 .rootTLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
-  font: optional;
+  font-size: 50px;
 }
 .skillsKLetter {
-  font: optional;
+  font-size: 50px;
 }
 .skillsILetter {
-  font: optional;
+  font-size: 50px;
 }
 .skillsLLetter {
-  font: optional;
+  font-size: 50px;
 }
 .skillsLTwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 .skillsSTwoLetter {
-  font: optional;
+  font-size: 50px;
 }
 
 /* SYMBOLS */
@@ -407,7 +407,6 @@ body {
 /* Selectors */
 
 [class*="Letter"] {
-  font-size: 50px;
   font-weight: bolder;
 }
 
@@ -439,7 +438,7 @@ body {
 
 [class*="Letter"]:nth-of-type(6n + 4) {
   font-family: "piazzolla", sans-serif;
-  font-size: 49;
+  font-size: 49px;
   background-color: chocolate;
   color: aqua;
   text-decoration: overline;

@@ -54,41 +54,30 @@ body {
 /* Sample CSS for the WHY word */
 
 .whyWLetter {
-  font-size: 50px;
-
-  /*
   font-size: 72px;
   font-weight: bold;
   color: aqua;
   text-decoration: underline;
   text-transform: uppercase;
   font-family: "Piazolla", sans-serif;
-  */
 }
 
 .whyHLetter {
-  font-size: 50px;
-
-  /*
   font-size: 30px;
   font-weight: bold;
   color: darkgoldenrod;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: "Ceviche One", sans-serif;
-  */
 }
 
 .whyYLetter {
-  font-size: 50px;
-  /*
   font-size: 60px;
   font-weight: normal;
   color: coral;
   text-decoration: none;
   text-transform: uppercase;
   font-family: "Raleway Dots", sans-serif;
-  */
 }
 
 /* DID word */
@@ -411,16 +400,16 @@ body {
 }
 
 [class*="Letter"]:nth-of-type(6n + 1) {
-  font-variant: small-caps;
-  font-size: 67px;
-  font-family: "piazzolla", sans-serif;
-  background-color: darkblue;
-  color: darkmagenta;
+  font-size: 400;
+  color: #b22222;
+  text-decoration: line-through;
   transform: rotate(45deg);
+  font-family: "piazzolla", sans-serif;
+  background-color: chocolate;
 }
 
 [class*="Letter"]:nth-of-type(6n + 2) {
-  font-size: 51px;
+  font-size: 700;
   text-decoration-line: underline;
   font-family: "Ceviche One", sans-serif;
   background-color: aqua;
@@ -431,6 +420,7 @@ body {
 [class*="Letter"]:nth-of-type(6n + 3) {
   font-size: 75px;
   font-family: "Raleway Dots", sans-serif;
+  text-decoration: overline;
   color: coral;
   background-color: darkolivegreen;
   transform: rotate(90deg);
@@ -442,6 +432,7 @@ body {
   background-color: chocolate;
   color: aqua;
   text-decoration: overline;
+  font-variant: normal;
   transform: rotate(270deg);
 }
 
